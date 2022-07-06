@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/softsensorai/static/css/main.14875330.css",
+    "main.js": "/softsensorai/static/js/main.be51290f.js",
+    "static/js/787.6962f9d7.chunk.js": "/softsensorai/static/js/787.6962f9d7.chunk.js",
+    "index.html": "/softsensorai/index.html",
+    "main.14875330.css.map": "/softsensorai/static/css/main.14875330.css.map",
+    "main.be51290f.js.map": "/softsensorai/static/js/main.be51290f.js.map",
+    "787.6962f9d7.chunk.js.map": "/softsensorai/static/js/787.6962f9d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14875330.css",
+    "static/js/main.be51290f.js"
+  ]
+}
